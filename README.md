@@ -3,6 +3,7 @@
 
 A simple, responsive webpage showcasing famous historical places in India. The page uses **HTML** and **CSS Grid** to display images with descriptions in a clean and organized layout.
 
+![Screenshot of Webpage](Images/Screenshot (267).png)
 
 ## Features
 
